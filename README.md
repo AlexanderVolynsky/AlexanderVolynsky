@@ -4,7 +4,7 @@
 **AlexanderVolynsky/AlexanderVolynsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynskyx&show_icons=true&count_private=true&theme=radical)
 <br/>
-
+ 
 ## I'm a FullStack Developer
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
@@ -27,7 +27,6 @@
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  <img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
   <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-
 
 <br/>
 
