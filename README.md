@@ -1,21 +1,22 @@
-### Hi there , I'm Alexander
+### Hi there :wave:, I'm Alexander
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### I'm Full Stack Software Developer
+- 💪 I like to write code
+- 🔭 I'm currently working on multidisciplinary project
+- 🌱 I’m currently learning Web design &  Web-development to improve my Front-end skills
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+<br/>
 
 ### GitHub Status
-![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynsky&show_icons=true&count_private=true&theme=radical)
-<br/>
-### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
+![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynsky&show_icons=true)
+<br/><br/>
+
+### ʟanguages and ᴛools
 
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
