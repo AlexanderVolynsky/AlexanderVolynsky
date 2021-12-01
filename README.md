@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ... -->
 <br/>
 
-<a href="https://www.linkedin.com/in/alexander-volynsky/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/alexander-volynsky/" target="_blank">
   <img align="left" alt="Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.codeproject.com/Members/VolynskyAlex" target="_blank">
@@ -21,7 +21,7 @@
 <a href="http://tech.quebecblogue.com/" target="_blank">
   <img align="left" alt="Tech.quebecblogue" width="22px" src="https://avatars.mds.yandex.net/i?id=57b2fc6422d24bc4177ec0aeda40c189-4589472-images-thumbs&n=13" />
 </a>
-<br /><br />
+<br /><br /> -->
 
 ### GitHub Status
 ![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynsky&show_icons=true)
