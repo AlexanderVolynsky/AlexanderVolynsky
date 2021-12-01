@@ -1,8 +1,7 @@
-### Hi there 👋 , I'm Alexander
- 
-### I'm a FullStack Developer
+![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynskyx&show_icons=true&count_private=true&theme=radical)
 
-### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
+
+<br/>
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
