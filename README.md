@@ -19,7 +19,7 @@
   <img align="left" alt="CodeProject" width="22px" src="https://pbs.twimg.com/profile_images/3354417994/2df9a5446ca8ff0c611112a846434239_400x400.png" />
 </a>
 <a href="http://tech.quebecblogue.com/" target="_blank">
-  <img align="left" alt="Tech.quebecblogue" width="22px" src="https://avatars.mds.yandex.net/i?id=f96daa99b16e8f6b4e35ae0765ea9b49-5228181-images-thumbs&n=13" />
+  <img align="left" alt="Tech.quebecblogue" width="22px" src="https://avatars.mds.yandex.net/i?id=57b2fc6422d24bc4177ec0aeda40c189-4589472-images-thumbs&n=13" />
 </a>
 <br /><br />
 
