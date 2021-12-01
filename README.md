@@ -12,13 +12,13 @@
 - ⚡ Fun fact: ... -->
 <br/>
 
-<a href="https://www.linkedin.com/in/alexander-volynsky/">
+<a href="https://www.linkedin.com/in/alexander-volynsky/" target="_blank">
   <img align="left" alt="Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-<a href="https://www.codeproject.com/Members/VolynskyAlex">
+<a href="https://www.codeproject.com/Members/VolynskyAlex" target="_blank">
   <img align="left" alt="CodeProject" width="22px" src="https://pbs.twimg.com/profile_images/3354417994/2df9a5446ca8ff0c611112a846434239_400x400.png" />
 </a>
-<a href="http://tech.quebecblogue.com/">
+<a href="http://tech.quebecblogue.com/" target="_blank">
   <img align="left" alt="Tech.quebecblogue" width="22px" src="https://avatars.mds.yandex.net/i?id=f96daa99b16e8f6b4e35ae0765ea9b49-5228181-images-thumbs&n=13" />
 </a>
 <br /><br />
