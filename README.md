@@ -19,7 +19,7 @@
 <br/>
 
 ### GitHub Status
-![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynskyx&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynsky&show_icons=true)
 
 <hr/>
 Here are some ideas to get you started:
