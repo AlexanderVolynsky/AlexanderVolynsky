@@ -12,6 +12,17 @@
 - ⚡ Fun fact: ... -->
 <br/>
 
+<a href="https://www.linkedin.com/in/alexander-volynsky/">
+  <img align="left" alt="Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+</a>
+<a href="https://www.codeproject.com/Members/VolynskyAlex">
+  <img align="left" alt="CodeProject" width="22px" src="https://pbs.twimg.com/profile_images/3354417994/2df9a5446ca8ff0c611112a846434239_400x400.png" />
+</a>
+<a href="http://tech.quebecblogue.com/">
+  <img align="left" alt="Tech.quebecblogue" width="22px" src="https://avatars.mds.yandex.net/i?id=f96daa99b16e8f6b4e35ae0765ea9b49-5228181-images-thumbs&n=13" />
+</a>
+<br /><br />
+
 ### GitHub Status
 ![My stats](https://github-readme-stats.vercel.app/api?username=AlexanderVolynsky&show_icons=true)
 <br/><br/>
@@ -33,9 +44,3 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/><br/>
-
-### Contact with me
-[twitter]: https://twitter.com/apploidxxx
-[instagram]: https://www.instagram.com/apploid_x
-[linkedin]: https://www.linkedin.com/in/kupriyanov-arthur/
-[vk]: https://vk.com/apploidxxx
